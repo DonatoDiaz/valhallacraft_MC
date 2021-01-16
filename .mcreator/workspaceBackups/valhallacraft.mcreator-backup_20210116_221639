@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "ENTITY": 2,
-    "DIMENSION": 1
+    "DIMENSION": 1,
+    "ENTITY": 4
   },
   "mod_elements": [
     {
@@ -32,6 +32,17 @@
       "ids": {
         "1": 1
       }
+    },
+    {
+      "name": "Goblin",
+      "type": "mob",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 3,
+        "1": 4
+      }
     }
   ],
   "variable_elements": [],
@@ -39,11 +50,13 @@
   "language_map": {
     "ru_ru": {
       "entity.draugr.name": "Draugr",
-      "item.jotunheimworld.name": "Jotunheim Portal Igniter"
+      "item.jotunheimworld.name": "Jotunheim Portal Igniter",
+      "entity.goblin.name": "Goblin"
     },
     "en_us": {
       "entity.draugr.name": "Draugr",
-      "item.jotunheimworld.name": "Jotunheim Portal Igniter"
+      "item.jotunheimworld.name": "Jotunheim Portal Igniter",
+      "entity.goblin.name": "Goblin"
     }
   },
   "workspaceSettings": {
