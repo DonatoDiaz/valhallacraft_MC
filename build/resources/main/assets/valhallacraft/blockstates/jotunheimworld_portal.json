@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "valhallacraft:jotunheimworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "valhallacraft:jotunheimworld_portal_ns"
+    },
+    "inventory": {
+      "model": "valhallacraft:jotunheimworld_portal_ns"
+    }
+  }
+}

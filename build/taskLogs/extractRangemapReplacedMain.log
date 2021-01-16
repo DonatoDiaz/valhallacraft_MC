@@ -1,0 +1,37 @@
+Unsupposrted library path: C:\Users\psdemon\MCreatorWorkspaces\valhallacraft\build\classes\java\api
+Unsupposrted library path: C:\Users\psdemon\MCreatorWorkspaces\valhallacraft\build\resources\api
+Symbol range map extraction starting
+Processing 11 files
+startProcessing "net/mcreator/valhallacraft/ClientProxyValhallaCraft.java" md5: 8a72c6adf9b07d148a4f6aa143fd6865
+endProcessing "net/mcreator/valhallacraft/ClientProxyValhallaCraft.java"
+
+startProcessing "net/mcreator/valhallacraft/ElementsValhallaCraft.java" md5: 094bc0579722816785b7d446a6ae6311
+endProcessing "net/mcreator/valhallacraft/ElementsValhallaCraft.java"
+
+startProcessing "net/mcreator/valhallacraft/IProxyValhallaCraft.java" md5: 660e893ac1428ce1b5bdd6373881f004
+endProcessing "net/mcreator/valhallacraft/IProxyValhallaCraft.java"
+
+startProcessing "net/mcreator/valhallacraft/ServerProxyValhallaCraft.java" md5: 42180c795da2dcd96812d2ae224edd38
+endProcessing "net/mcreator/valhallacraft/ServerProxyValhallaCraft.java"
+
+startProcessing "net/mcreator/valhallacraft/ValhallaCraft.java" md5: 9ad5ff58f69eb5879270376ffa23b21c
+endProcessing "net/mcreator/valhallacraft/ValhallaCraft.java"
+
+startProcessing "net/mcreator/valhallacraft/ValhallaCraftVariables.java" md5: 05f5eb053bdcefd645484b93e78f9d8b
+endProcessing "net/mcreator/valhallacraft/ValhallaCraftVariables.java"
+
+startProcessing "net/mcreator/valhallacraft/entity/EntityDraugr.java" md5: c15bc30f470beee182760a7e22be61ae
+endProcessing "net/mcreator/valhallacraft/entity/EntityDraugr.java"
+
+startProcessing "net/mcreator/valhallacraft/entity/EntityGoblin.java" md5: 171d0ec1fb940e61bc89add02c0140e7
+endProcessing "net/mcreator/valhallacraft/entity/EntityGoblin.java"
+
+startProcessing "net/mcreator/valhallacraft/item/ItemJotunheimworld.java" md5: 828bd4abfa81386617505c185e2aed57
+endProcessing "net/mcreator/valhallacraft/item/ItemJotunheimworld.java"
+
+startProcessing "net/mcreator/valhallacraft/world/WorldJotunheimworld.java" md5: b924ef23a52e25b4a64d48f330552d5b
+endProcessing "net/mcreator/valhallacraft/world/WorldJotunheimworld.java"
+
+startProcessing "net/mcreator/valhallacraft/world/biome/BiomeJotunheim.java" md5: 03d6c89806965240f95c3ecfd55bd275
+endProcessing "net/mcreator/valhallacraft/world/biome/BiomeJotunheim.java"
+

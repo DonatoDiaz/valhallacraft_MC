@@ -1,0 +1,79 @@
+{
+  "id_map": {
+    "ENTITY": 4,
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Jotunheim",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Draugr",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      }
+    },
+    {
+      "name": "Jotunheimworld",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "Goblin",
+      "type": "mob",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 3,
+        "1": 4
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "entity.draugr.name": "Draugr",
+      "item.jotunheimworld.name": "Jotunheim Portal Igniter",
+      "entity.goblin.name": "Goblin"
+    },
+    "en_us": {
+      "entity.draugr.name": "Draugr",
+      "item.jotunheimworld.name": "Jotunheim Portal Igniter",
+      "entity.goblin.name": "Goblin"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "valhallacraft",
+    "modName": "ValhallaCraft",
+    "version": "1.0.0",
+    "author": "psdemon, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.valhallacraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
